@@ -14,8 +14,8 @@ Following up the dependencies.
 
 - sendEmail (check here https://github.com/tiagoribeirof/sendEmail)
 
-# To configure the datasource go to the application.properties and change username and password.
+ To configure the datasource go to the application.properties and change username and password.
 
-# Make the download of sendEmail project and perform the mvn install command.
+ Make the download of sendEmail project and perform the mvn install command.
 
 
